@@ -1,0 +1,82 @@
+/*we went to inspect to check where in the class jumbotron was background -color, font-size, margin etc.*/
+.jumbotron {
+    text-align: center;
+    background: none;
+    /*since we have to change the background color and background-color can't be none so setting background to none*/
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    /*light grey*/
+    padding: 2rem;
+    /*rem unit provides better mobike compatibility than em unit*/
+}
+
+.sectionDark{
+    background-color: #cccccc;/*dark grey*/
+    padding: 2rem;
+}
+
+.coolStuffWrapper{
+    margin: 20px;
+}
+
+button.coolStuffBtn{
+    background-color: red;
+    color: #ffffff;/*white color to text*/
+    display: block;
+    margin:auto;
+}
+
+h5.modal-title{
+    margin: auto;
+}
+
+.modalFormWrapper{
+    padding: 2rem;
+}
+
+.imgCenter{
+    display:block;
+    margin:auto;
+}
+
+.btnCenter{
+    display:block;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:20px;
+    width:74%;
+}
+
+.footerImg{
+    padding: 15px;
+}
+
+.fab{
+    margin: 10px;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+    /* changing the color of icon just like that of font. changing the color b/c it's mingling with our background footer color*/
+}
+
+.fa-google-plus-square{
+    color: #c32f10;
+}
+
+.fa-instagram{
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
+}
+
+
+
+
+
+
+
