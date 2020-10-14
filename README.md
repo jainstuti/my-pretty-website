@@ -1,5 +1,6 @@
 # my-pretty-website
 This is a responsive sample website styled using Bootstrap, compatible for all the screen sizes.
+It implements Bootstrap grid for positioning of the elements.
 
 Section 1 and 2
 
