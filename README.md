@@ -2,6 +2,7 @@
 This is a responsive sample website styled using Bootstrap, compatible for all the screen sizes.
 
 <img width="1440" alt="Screenshot 2020-10-14 at 11 18 25 AM" src="https://user-images.githubusercontent.com/34738261/95948901-213ee380-0e0f-11eb-9f13-e76aa5ed4cad.png">
+<img width="1440" alt="Screenshot 2020-10-13 at 11 53 03 PM" src="https://user-images.githubusercontent.com/34738261/95949051-84307a80-0e0f-11eb-8d4f-0c946cf4c5f9.png">
 
 
 It contains the following sections:
