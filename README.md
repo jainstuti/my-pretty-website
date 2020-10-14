@@ -32,6 +32,10 @@ It contains the following sections:
     
 4. Link to videos on my Youtube channel
     It contains 3 buttons which when clicked open up modals containing link to youtube video and its short description. These modals decrease in size from button "Funcions" to button "Pattern".
+    
+    (When button for "Number System is clicked")
+    
+    <img width="1440" alt="Screenshot 2020-10-14 at 11 34 21 AM" src="https://user-images.githubusercontent.com/34738261/95949934-53514500-0e11-11eb-8382-a616ae0952c1.png">
    
 5. Footer
     It contains a logo and 3 favicons.
