@@ -1,15 +1,15 @@
 # my-pretty-website
 This is a responsive sample website styled using Bootstrap, compatible for all the screen sizes.
 
-Section 1
+Section 1 and 2
 
 <img width="1440" alt="Screenshot 2020-10-14 at 11 18 25 AM" src="https://user-images.githubusercontent.com/34738261/95948901-213ee380-0e0f-11eb-9f13-e76aa5ed4cad.png">
 
-Section 2
+Section 3
 
 <img width="1440" alt="Screenshot 2020-10-13 at 11 53 03 PM" src="https://user-images.githubusercontent.com/34738261/95949051-84307a80-0e0f-11eb-8d4f-0c946cf4c5f9.png">
 
-Section
+Section 4 and 5
 
 <img width="1440" alt="Screenshot 2020-10-13 at 11 53 35 PM" src="https://user-images.githubusercontent.com/34738261/95949323-0ae55780-0e10-11eb-9910-4d0e09963ad5.png">
 
