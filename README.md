@@ -38,4 +38,4 @@ It contains the following sections:
     <img width="1440" alt="Screenshot 2020-10-14 at 11 34 21 AM" src="https://user-images.githubusercontent.com/34738261/95949934-53514500-0e11-11eb-8382-a616ae0952c1.png">
    
 5. Footer
-    It contains a logo and 3 favicons.
+    It contains a logo and 3 favicons. When favicon of facebook is clicked, it opens up facebook in new window.
