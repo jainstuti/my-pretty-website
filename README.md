@@ -25,6 +25,11 @@ It contains the following sections:
 3. Section 3
     It contains text, images and a button "Get Cool Stuff!" which when clicked opens up a modal. The modal contains content label, a logo and inputboxes for name and email. It also contains a close button.
     
+    (When "Get Cool Stuff!" button is clicked)
+    
+    <img width="1440" alt="Screenshot 2020-10-14 at 11 30 40 AM" src="https://user-images.githubusercontent.com/34738261/95949737-f3f33500-0e10-11eb-907c-2e2581105e96.png">
+
+    
 4. Link to videos on my Youtube channel
     It contains 3 buttons which when clicked open up modals containing link to youtube video and its short description. These modals decrease in size from button "Funcions" to button "Pattern".
    
