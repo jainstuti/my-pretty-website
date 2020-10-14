@@ -1,6 +1,9 @@
 # my-pretty-website
 This is a responsive sample website styled using Bootstrap, compatible for all the screen sizes.
 
+<img width="1440" alt="Screenshot 2020-10-14 at 11 18 25 AM" src="https://user-images.githubusercontent.com/34738261/95948901-213ee380-0e0f-11eb-9f13-e76aa5ed4cad.png">
+
+
 It contains the following sections:
 1. Navbar
     It contains differrnt elements and a drop down menu(for "swags") which when hovered over change colour.
