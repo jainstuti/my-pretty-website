@@ -9,6 +9,9 @@ Section 2
 
 <img width="1440" alt="Screenshot 2020-10-13 at 11 53 03 PM" src="https://user-images.githubusercontent.com/34738261/95949051-84307a80-0e0f-11eb-8d4f-0c946cf4c5f9.png">
 
+Section
+
+<img width="1440" alt="Screenshot 2020-10-13 at 11 53 35 PM" src="https://user-images.githubusercontent.com/34738261/95949323-0ae55780-0e10-11eb-9910-4d0e09963ad5.png">
 
 
 It contains the following sections:
