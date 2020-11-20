@@ -1,11 +1,12 @@
+
 .jumbotron {
     text-align: center;
     background: none;
-    
 }
 
 .sectionLight {
     background-color: #eceeef;
+    /*light grey*/
     padding: 2rem;
 }
 
@@ -56,6 +57,7 @@ h5.modal-title{
 
 .fa-facebook-square{
     color: #3b5998;
+    
 }
 
 .fa-google-plus-square{
@@ -69,6 +71,13 @@ h5.modal-title{
 .socialWrapper{
     margin: auto;
 }
+
+
+
+
+
+
+
 
 
 
